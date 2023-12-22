@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "canisters": {
+    "my_travel": {
+      "type": "rust",
+      "package": "my_travel",
+      "candid": "src/my_travel/my_travel.did"
+    }
+  },
+  "output_env_file": ".env"
+}
